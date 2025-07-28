@@ -7,6 +7,9 @@ interface Work {
   name: string
   thumbnail: string
   description: string
+  atlasPath: string
+  jsonPath: string
+  imagePath: string
 }
 
 interface SwipeableWorkItemProps {
