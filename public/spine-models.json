@@ -1,0 +1,49 @@
+{
+  "models": [
+    {
+      "id": "fairydragon",
+      "name": "Fairy Dragon",
+      "description": "Magical fairy dragon with enchanting animations",
+      "thumbnail": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/fairydragonlogo.png",
+      "atlasPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/fairydragon.atlas",
+      "jsonPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/fairydragon.json",
+      "imagePath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/fairydragon.png"
+    },
+    {
+      "id": "mary",
+      "name": "Mary",
+      "description": "Elegant character with smooth animations",
+      "thumbnail": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/marylogo.png",
+      "atlasPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/mary.atlas",
+      "jsonPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/mary.json",
+      "imagePath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/mary.png"
+    },
+    {
+      "id": "pinkbunny",
+      "name": "Pink Bunny",
+      "description": "Cute animated bunny character",
+      "thumbnail": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/pinkbunnylogo.png",
+      "atlasPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/pinkbunny.atlas",
+      "jsonPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/pinkbunny.json",
+      "imagePath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/pinkbunny.png"
+    },
+    {
+      "id": "presentdragon",
+      "name": "Present Dragon",
+      "description": "Festive dragon character with gift-giving animations",
+      "thumbnail": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/presentdragonlogo.png",
+      "atlasPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/presentdragon.atlas",
+      "jsonPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/presentdragon.json",
+      "imagePath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/presentdragon.png"
+    },
+    {
+      "id": "sora",
+      "name": "Sora",
+      "description": "Anime character with dynamic animations",
+      "thumbnail": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/soralogo.png",
+      "atlasPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/sora.atlas",
+      "jsonPath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/sora.json",
+      "imagePath": "https://raw.githubusercontent.com/sakianoAya/spine_assets/refs/heads/main/sora.png"
+    }
+  ]
+}
