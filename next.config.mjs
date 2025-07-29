@@ -3,11 +3,6 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 
-  // 確保靜態資源正確處理
-  assetPrefix: "",
-  basePath: "",
-  trailingSlash: false,
-
   // 圖片優化配置
   images: {
     domains: ["raw.githubusercontent.com", "blob.v0.dev"],
@@ -23,11 +18,6 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-
-  // 實驗性功能
-  experimental: {
-    esmExternals: false,
-  },
 }
 
-module.exports = nextConfig
+export default nextConfig
